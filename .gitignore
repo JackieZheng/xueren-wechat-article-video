@@ -1,0 +1,14 @@
+/tmp
+*.pyc
+__pycache__/
+*.pyo
+.env
+*.mp4
+*.wav
+*.mp3
+node_modules/
+dist/
+build/
+.cache/
+*seg-*.mp4
+
