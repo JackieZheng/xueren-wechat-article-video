@@ -1,0 +1,14 @@
+{
+  "name": "xueren-wechat-article-video",
+  "version": "1.0.0",
+  "author": "雪人",
+  "description": "雪人老师·公众号文章转视频：公众号文章转横屏短视频完整流水线（抓取文章→口播稿→男声TTS→字幕对齐→Remotion渲染→封面→交付三件套），含20+实测沉淀的排错经验。",
+  "license": "MIT",
+  "homepage": "",
+  "tags": ["wechat", "公众号", "video", "视频", "remotion", "tts"],
+  "permissions": ["filesystem", "network"],
+  "entryPoint": {
+    "type": "natural",
+    "path": "SKILL.md"
+  }
+}
