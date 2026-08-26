@@ -74,6 +74,9 @@
 - **字体**：思源宋体从系统 `/usr/share/fonts/opentype/noto/` 提取，已备份至 `assets/fonts/`
 - **渲染**：Remotion bundling 需在本地磁盘（/tmp）执行，virtiofs 上会卡死
 
+## **查看效果演示**
+- https://mp.weixin.qq.com/s/WQhmg27Z5YLHcIZ52fm5LQ?scene=1&click_id=979349242
+
 ## License
 
 MIT License © 雪人
