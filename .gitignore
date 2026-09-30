@@ -1,0 +1,30 @@
+# 依赖
+node_modules/
+
+# 用户凭据 —— 绝不进版本库
+.env
+*.env
+*.key
+*.pem
+*.p12
+private.key
+*creds*
+*secret*
+*token*
+*api_key*
+*apikey*
+
+# 运行临时产物
+log/
+*.tmp
+asr_out_*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# 系统
+.DS_Store
+Thumbs.db
