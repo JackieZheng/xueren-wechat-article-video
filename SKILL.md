@@ -6,7 +6,7 @@ description: 将微信公众号文章（mp.weixin.qq.com）制作为竖屏/横�
 slug: xueren-wechat-article-video
 displayName: 雪人老师·公众号文章转视频
 summary: 将微信公众号文章（mp.
-description_en: xueren-wechat-article-video
+description_en: Convert a WeChat article into vertical/horizontal short video (Remotion + TTS).
 version: 1.4.3
 author: 雪人
 license: MIT
@@ -21,6 +21,8 @@ skillhub: https://skillhub.cn/skills/indiv-xueren/xueren-wechat-article-video
 metadata:
   author: 雪人
   category: 自媒体
+description_zh: 将微信公众号文章（mp.weixin.qq.com）制作为竖屏/横屏短视频的完整流水线：环境自检、抓取文章与原文图、下载相关视频素材、Remotion 工程搭建、短句口播稿拆解、男声 TTS 配音、字幕对齐、渲染成片、封面竖屏安全区布局（1920×1080 画布 + 中央 608×1080 文字活动区）与发布文案。当用户提供公众号文章链接要求"转视频"、"做成视频"、"生成视频"，或提到公众号文章视频化时触发。不适用于：PPT 转视频、纯图片轮播、已有视频的剪辑加工、非公众号来源的文字转视频。
+
 ---
 
 # 雪人老师·公众号文章转视频
