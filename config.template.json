@@ -1,0 +1,6 @@
+{
+  "video_topics": "rocket,space,jet,factory,technology",
+  "tts_voice": "zh-CN-YunjianNeural",
+  "output_dir": "<输出目录，默认 /tmp/rm>",
+  "render_scale": "1080"
+}
